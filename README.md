@@ -1,5 +1,5 @@
 
-<h3 align="center">👋 Hi there! I'm David Ascencios-Rondon 👽</h3>
+<h3 align="center">👋 Hi there! I'm David Ascencios Rondón 👽</h3>
 <p align="center">
   <a href="https://davichoar.github.io/outlierd/">Website</a> •
   <a href="https://twitter.com/outlierd_">Twitter</a> •
@@ -7,7 +7,7 @@
 </p>
 
 ---
- I'm a machine learning engineer passionate about making apps with ML components in the backend. Also, I love NLP topics and cloud stuff (specially AWS and GCP). I'm very curious about different architectures for AI solutions and good MLOps frameworks.
+ I'm a machine learning engineer from Peru, passionate about making apps with ML components in the backend. Also, I love NLP topics and cloud stuff (specially AWS and GCP). I'm very curious about different architectures for AI solutions and good MLOps frameworks.
 
 I've been working on Data Science and Machine Learning since 2018, and never stopped since then. I have a strong background in software engineering, as well as statistics and data engineering.
 
