@@ -14,6 +14,6 @@ I've been working on Data Science and Machine Learning since 2018, and never sto
 
 - 💬 Ask me about: Python, Machine Learning, Serverless, MLOps, APIs, ML and Data Pipelines.
 - 🌱 I’m currently learning Node.js and reading about Transformers!
-- 📫 How to reach me: [@outlierd_](https://twitter.com/outlierd_) or [Linkedin](https://www.linkedin.com/in/dascencr/_).
+- 📫 How to reach me: Feel free to send me and email to outlierd@pm.me or connect via [Linkedin](https://www.linkedin.com/in/dascencr/_).
 - 👯 I’m looking to collaborate on open source projects for ML platforms (such as Kubeflow and MLFlow), or APIs and ML frameworks in Python.
 - ⚡ Fun fact: I love manga/anime and playing basketball. My favorite anime is Full Metal Alchemist Brotherhood, and my favorite team is the Miami Heat!
